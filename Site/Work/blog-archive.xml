@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Work</title>
+    <link>http://www.suppoor.com/Site/Work</link>
+    <description>I am mostly involved in research on wireless networks. In particular, my interest are:  
+&gt; Protocol design and development for vehicular networks 
+&gt; Green networking in cellular networks
+&gt; ....
+
+ </description>
+    <item>
+      <title>Koln vehicular mobility trace </title>
+      <link>http://www.suppoor.com/Site/Work/Entries/2011/11/8_Koln_vehicular_mobility_trace.html</link>
+      <guid isPermaLink="false">689e1886-6857-4cbf-8767-bb22a73fd483</guid>
+      <pubDate>Tue, 8 Nov 2011 11:09:17 +0100</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.suppoor.com/Site/Work/Entries/2011/11/8_Koln_vehicular_mobility_trace.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://www.suppoor.com/Site/Work</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

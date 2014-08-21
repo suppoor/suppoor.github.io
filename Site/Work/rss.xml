@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title></title>
+    <link>http://www.suppoor.com/Site/Work/Work.html</link>
+    <description>I am mostly involved in research on wireless networks. In particular, my interest are:  &lt;br/&gt;&gt; Protocol design and development for vehicular networks &lt;br/&gt;&gt; Green networking in cellular networks&lt;br/&gt;&gt; ....&lt;br/&gt;&lt;br/&gt; </description>
+    <generator>iWeb 3.0.4</generator>
+    <image>
+      <url>http://www.suppoor.com/Site/Work/Work_files/highway3.jpg</url>
+      <link>http://www.suppoor.com/Site/Work/Work.html</link>
+    </image>
+    <item>
+      <title>Koln vehicular mobility trace </title>
+      <link>http://www.suppoor.com/Site/Work/Entries/2011/11/8_Koln_vehicular_mobility_trace.html</link>
+      <guid isPermaLink="false">689e1886-6857-4cbf-8767-bb22a73fd483</guid>
+      <pubDate>Tue, 8 Nov 2011 11:09:17 +0100</pubDate>
+      <description>Vehicles are envisioned to become real communication hubs in the near future, thanks to the growing presence of radio interfaces on the cars as well as to the increasing utilization of smartphones and tablets by their passengers.&lt;br/&gt;In such a context, simulation remains the mean of choice for the evaluation of large-scale deployments of new vehicular networking solutions. In order to evaluate the effect of high-speed, strongly-correlated and constrained  movements of vehicles on vehicular network connectivity, we introduce a synthetic dataset of the car traffic over a typical 24 hours in a 400 sq.km region around Koln, Germany.&lt;br/&gt;&lt;br/&gt;Availability : &lt;a href=&quot;http://kolntrace.project.citi-lab.fr/&quot;&gt;http://kolntrace.project.citi-lab.fr&lt;/a&gt;</description>
+    </item>
+  </channel>
+</rss>

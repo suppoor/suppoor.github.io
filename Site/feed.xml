@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:43774DC9-0DD5-49CC-85A7-FAECBCA8821D</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-07-24T22:53:46+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:4D9AAAAA-4C7A-4BFE-8F94-B8967C54A02B</id>
+  <title>Sandesh UPPOOR</title>
+  <title xmlns="urn:iweb:">Sandesh UPPOOR</title>
+  <in-navbar xmlns="urn:iweb:">4D9AAAAA-4C7A-4BFE-8F94-B8967C54A02B</in-navbar>
+  <link rel="alternate" href="Sandesh_UPPOOR.html"/>
+  <updated>2013-07-24T22:53:46.001+02:00</updated>
+  <content>Sandesh UPPOOR</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8457009D-933F-4F36-BD16-7EC344924EC0</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">8457009D-933F-4F36-BD16-7EC344924EC0</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2013-07-24T22:53:46.002+02:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:626671D0-73EE-4431-A70E-2743754BFD29</id>
+  <title>Work</title>
+  <title xmlns="urn:iweb:">Work</title>
+  <in-navbar xmlns="urn:iweb:">626671D0-73EE-4431-A70E-2743754BFD29</in-navbar>
+  <link rel="alternate" href="Work/Work.html"/>
+  <updated>2007-03-01T18:29:51+01:00</updated>
+  <content>Work</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D5451381-B146-44D9-9999-CE939AFBC576</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">D5451381-B146-44D9-9999-CE939AFBC576</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2013-07-24T22:53:46.003+02:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>

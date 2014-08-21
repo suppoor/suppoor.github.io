@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="BF3D08EA-32B1-4B2B-AD51-693F26FF6621">
+  <lastEdited clientType="local-build-20130703" date="2013-07-03 01:42:52 +0000"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Vehicles are envisioned to become real communication hubs in the near future, thanks to the growing presence of radio interfaces on the cars as well as to the increasing utilization of smartphones and tablets by their passengers.&#xD;In such a context, simulation remains the mean of choice for the evaluation of large-scale deployments of new vehicular networking solutions. In order to evaluate the effect of high-speed, strongly-correlated and constrained  movements of vehicles on vehicular network connectivity, we introduce a synthetic dataset of the car traffic over a typical 24 hours in a 400 sq.km region around Koln, Germany.&#xD;&#xD;Availability : &lt;a href="http://kolntrace.project.citi-lab.fr/"&gt;http://kolntrace.project.citi-lab.fr&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, November 8, 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Koln vehicular mobility trace </richText>
+  </textBox>
+</content>
